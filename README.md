@@ -19,4 +19,4 @@ Vamos somar todas as notas:<br>
 Agora vamos dividir o valor da soma pela quantidade de notas e descobrir a média final:<br>
 32 / 4 = 8<br>
 A média final neste exemplo é 8.</p><br>
-<p>Nota: Estou aprendendo através do CODPEN, e depois transcrevendo o código através do VISUALCODE e fazendo o versionamento através do Git, e inserindo na nuvem do repositório do GitHub</p>
+<p>Nota: Estou aprendendo através do CODPEN, e depois transcrevendo o código através do VISUALCODE e fazendo o versionamento através do Git, e inserindo na nuvem do repositório do GitHub.</p>
